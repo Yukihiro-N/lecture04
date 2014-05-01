@@ -12,3 +12,18 @@
     margin-left: 0%;
   }
 }
+
+.mouseover{
+	animation-duration: 2s;
+	animation-name: mouseover;
+}
+
+@keyframes mouseover {
+  from {
+    margin-left: 100%;
+  }
+
+  to {
+    margin-left: 0%;
+  }
+}
