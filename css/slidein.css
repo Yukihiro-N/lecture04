@@ -15,10 +15,10 @@
 
 .mouseover{
 	animation-duration: 2s;
-	animation-name: mouseover;
+	animation-name: slidein;
 }
 
-@keyframes mouseover {
+@keyframes slidein {
   from {
     margin-left: 100%;
   }
