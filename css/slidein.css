@@ -21,9 +21,11 @@
 @keyframes slidein {
   from {
     margin-left: 100%;
+    margin-top: 100%;
   }
 
   to {
     margin-left: 0%;
+    margin-top: 0%;
   }
 }
